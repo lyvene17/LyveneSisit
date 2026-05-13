@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="myphoto.jpg" width="200"/>
+</p>
+
 # Hi, I'm Lyvene
 
 ## About Me
